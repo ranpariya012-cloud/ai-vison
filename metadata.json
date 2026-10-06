@@ -1,0 +1,6 @@
+{
+  "name": "AI Vision Detector",
+  "description": "Real-time client-side face, eyes, hands, fingers, and landmark detection in the browser.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
